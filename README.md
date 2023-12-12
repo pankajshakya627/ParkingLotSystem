@@ -11,5 +11,3 @@ This repository contains the code for a terminal-based Parking Lot System. It's 
 
 ## Installation
 No additional installation is required other than a standard Python environment. The code is compatible with Python 3.11.
-
-```bash
